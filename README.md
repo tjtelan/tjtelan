@@ -4,12 +4,10 @@
 
 [Follow me on Twitch](https://www.twitch.tv/tjtelan) 
 
-Writing a JackBox clone in Rust - Wednesdays @ 12:15 PDT
-
-Code: [Untitled stream game](https://github.com/tjtelan/untitled-stream-game)
+Beginner's Embedded systems development with Rust - Wednesdays @ 12:15 PDT
 
 ### Upcoming stream topics
-* Embedded systems development with Rust
+  * 
 
 ---
 
