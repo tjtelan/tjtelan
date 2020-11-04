@@ -10,13 +10,13 @@ But I will occasionally cover electronics with microcontrollers, WebAssembly, an
 
 ### Upcoming stream topics
 * Open Source development
-** Building [OrbitalCI](https://github.com/tjtelan/git-event-rs) - A self-hosted Continuous Integration engine similar to TravisCI. DevOps tool written in Rust!
-** Maintaining my Rust crates
-** Random Rust contributions to small projects
+  * Building [OrbitalCI](https://github.com/tjtelan/git-event-rs) - A self-hosted Continuous Integration engine similar to TravisCI. DevOps tool written in Rust!
+  * Maintaining my Rust crates
+  * Random Rust contributions to small projects
 * Embedded systems development with Rust
-** Building the [Knurling sessions](https://knurling.ferrous-systems.com/sessions/) project with [knurling-rs](https://github.com/knurling-rs/)
-** Building a custom LED controller with [Adafruit DotStar](https://www.adafruit.com/product/2241) and [Adafruit Airlift](https://www.adafruit.com/product/4000)
-** Exploring Rust AVR support with [Arduino Mega 1280](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardMega)
+  * Building the [Knurling sessions](https://knurling.ferrous-systems.com/sessions/) project with [knurling-rs](https://github.com/knurling-rs/)
+  * Building a custom LED controller with [Adafruit DotStar](https://www.adafruit.com/product/2241) and [Adafruit Airlift](https://www.adafruit.com/product/4000)
+  * Exploring Rust AVR support with [Arduino Mega 1280](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardMega)
 
 ---
 
